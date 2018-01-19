@@ -1,0 +1,9 @@
+node_modules/**
+content/**
+styles/**
+templates/**
+public/**
+random_public/**
+random/**
+
+.vscode
